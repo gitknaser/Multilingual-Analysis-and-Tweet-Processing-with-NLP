@@ -40,14 +40,6 @@ This project focuses on cleaning, analyzing, and visualizing tweet data, followe
 - Used the `deberta-v3-base-tasksource-nli` zero-shot classification model from Hugging Face to classify tweets into categories like `IA`, `programming`, `data`, `popular`, and `versatile`.
 - Appended the classification results as new columns to the original dataset.
 
-## Data Visualizations
-- **Daytime Tweet Distribution**: Number of tweets based on the time of day (morning, afternoon, evening, night).
-- **Top 10 Authors**: Bar chart of the authors with the most tweets.
-- **Retweet Distribution**: Top authors based on the number of retweets received.
-- **Hashtag Popularity**: Bar chart of the top 10 hashtags based on likes and retweets.
-- **Journal Topic Analysis**: Pie chart of the top topics (hashtags) discussed by the top 10 journals.
-- **Hashtags by Country**: Pie chart of the most popular hashtags in different countries.
-
 ## Libraries Used
 - **Pandas**: For data manipulation and analysis.
 - **Matplotlib**: For data visualization.
