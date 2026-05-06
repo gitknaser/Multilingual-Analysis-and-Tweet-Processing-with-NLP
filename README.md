@@ -58,7 +58,7 @@ This project focuses on cleaning, analyzing, and visualizing tweet data, followe
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MaroZayn/multilingual-analysis-and-tweet-processing-with-nlp.git
+   git clone https://github.com/gitknaser/multilingual-analysis-and-tweet-processing-with-nlp.git
 2. Installez les dépendances requises :
    ```bash
    pip install -r requirements.txt
